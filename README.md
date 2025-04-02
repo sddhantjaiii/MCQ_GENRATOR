@@ -1,7 +1,7 @@
 # AI-Powered MCQ Generator 🎓📚  
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://mcq-gen-121-f69a8.web.app/)
-[![View its working](https://img.shields.io/github/view/sddhantjaiii/MCQ_GENRATOR)](https://youtu.be/WR3zBZqFtHk)
+[![View its working](https://img.shields.io/badge/View%20its%20working-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/WR3zBZqFtHk)
 
 ## 🚀 Overview  
 
